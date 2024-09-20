@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\csharp\\doc_check\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBF55FE-FDCA-40B1-9D58-678C175A43EC}|Web\\Web.csproj|c:\\users\\administrator\\source\\repos\\csharp\\doc_check\\web\\controllers\\tests\\aatestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBF55FE-FDCA-40B1-9D58-678C175A43EC}|Web\\Web.csproj|solutionrelative:web\\controllers\\tests\\aatestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3239AA15-B63A-4340-A2C2-1105448C17CF}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\administrator\\source\\repos\\csharp\\doc_check\\applicationcore\\models\\sourcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3239AA15-B63A-4340-A2C2-1105448C17CF}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\models\\sourcemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3239AA15-B63A-4340-A2C2-1105448C17CF}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\administrator\\source\\repos\\csharp\\doc_check\\applicationcore\\models\\docmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3239AA15-B63A-4340-A2C2-1105448C17CF}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\models\\docmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3239AA15-B63A-4340-A2C2-1105448C17CF}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\administrator\\source\\repos\\csharp\\doc_check\\applicationcore\\dataaccess\\defaultcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3239AA15-B63A-4340-A2C2-1105448C17CF}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\dataaccess\\defaultcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SourceModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\csharp\\doc_check\\ApplicationCore\\Models\\SourceModel.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Models\\SourceModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\csharp\\doc_check\\ApplicationCore\\Models\\SourceModel.cs",
+              "RelativeToolTip": "ApplicationCore\\Models\\SourceModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:01:04.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocModel.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\csharp\\doc_check\\ApplicationCore\\Models\\DocModel.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Models\\DocModel.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\csharp\\doc_check\\ApplicationCore\\Models\\DocModel.cs",
+              "RelativeToolTip": "ApplicationCore\\Models\\DocModel.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwCQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T00:59:55.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AATestsController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\csharp\\doc_check\\Web\\Controllers\\Tests\\AATestsController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Tests\\AATestsController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\csharp\\doc_check\\Web\\Controllers\\Tests\\AATestsController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Tests\\AATestsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwBkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:23:10.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\csharp\\doc_check\\ApplicationCore\\DataAccess\\DefaultContext.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\DataAccess\\DefaultContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\csharp\\doc_check\\ApplicationCore\\DataAccess\\DefaultContext.cs",
+              "RelativeToolTip": "ApplicationCore\\DataAccess\\DefaultContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAiwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T01:00:29.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
